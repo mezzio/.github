@@ -187,6 +187,11 @@ repository, we suggest doing some cleanup of these branches.
   $ git push {username} :<branchname>
   ```
 
+## Contributing Documentation
+
+The documentation for each repository is available in the "**docs/**" directory of that repository, is written in [Markdown format], and is built using [MkDocs].
+To learn more about how to contribute to the documentation for a repository, including how to setup the documentation locally, please refer to https://github.com/laminas/documentation/blob/master/CONTRIBUTING.md.
+
 ## Commit Signoffs
 
 In order for us to accept your patches, you must provide a signoff in all
