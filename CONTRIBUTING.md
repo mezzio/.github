@@ -281,3 +281,6 @@ Date:   Wed Apr 01 14:46:40 2020 -0500
 
   Obvious fix.
 ```
+
+[MkDocs]: https://www.mkdocs.org/
+[Markdown format]: https://www.markdownguide.org/
